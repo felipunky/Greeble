@@ -1,0 +1,8 @@
+D:\Programas\GrasshopperPlugins\Greeble\Greeble\Greeble\bin\Debug\Greeble.dll
+D:\Programas\GrasshopperPlugins\Greeble\Greeble\Greeble\bin\Debug\Greeble.pdb
+D:\Programas\GrasshopperPlugins\Greeble\Greeble\Greeble\bin\Debug\Surface .dll
+D:\Programas\GrasshopperPlugins\Greeble\Greeble\Greeble\obj\Debug\Greeble.csprojAssemblyReference.cache
+D:\Programas\GrasshopperPlugins\Greeble\Greeble\Greeble\obj\Debug\Greeble.csproj.CoreCompileInputs.cache
+D:\Programas\GrasshopperPlugins\Greeble\Greeble\Greeble\obj\Debug\Greeble.csproj.CopyComplete
+D:\Programas\GrasshopperPlugins\Greeble\Greeble\Greeble\obj\Debug\Greeble.dll
+D:\Programas\GrasshopperPlugins\Greeble\Greeble\Greeble\obj\Debug\Greeble.pdb
